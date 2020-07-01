@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("my Git Project");
+		System.out.println("my Git Projects");
 
 	}
 
